@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,600&display=swap');
 body { font-family: 'Poppins', sans-serif; font-size: 1rem; line-height: 1.5; text-align: center; color: #3a3a3a; margin: 0; }
   h1 { font-size: 4rem; margin-bottom: 0;
  } #title{ color: #fff; }
@@ -15,8 +16,8 @@ body { font-family: 'Poppins', sans-serif; font-size: 1rem; line-height: 1.5; te
 background-color: rgb(124, 21, 21); padding: 10px; margin: 0; }
 #fig-caption { margin: 15px 0 5px 0; color: #fff; } 
 @media (max-width: 460px) {
-   #fig-caption { font-size: 1.4rem; }
-} #head { margin: 50px 0; text-align: center; }
+   #fig-caption { font-size: 1.4rem; }}
+ #head { margin: 50px 0; text-align: center; }
 ul { max-width: 550px; margin: 0 auto 50px auto; text-align: left;
     line-height: 1.6; }
      li { margin: 16px 0; }
